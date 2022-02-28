@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoriall. That in regard Mr. John Abbot register of the Prerogative Office had deserted his trust, and left Londou [sic], ...</title>
+            <author>Parker, Henry, 1604-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91266</idno>
+            <idno type="STC">Wing P407</idno>
+            <idno type="STC">Thomason 669.f.11[110]</idno>
+            <idno type="STC">ESTC R210737</idno>
+            <idno type="EEBO-CITATION">99869498</idno>
+            <idno type="PROQUEST">99869498</idno>
+            <idno type="VID">162761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162761)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[110])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memoriall. That in regard Mr. John Abbot register of the Prerogative Office had deserted his trust, and left Londou [sic], ...</title>
+                  <author>Parker, Henry, 1604-1652.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "January 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="documents">
+            <pb facs="tcp:162761:1" rendition="simple:additions"/>
+            <head>Memoriall.</head>
+            <floatingText type="letter">
+               <body>
+                  <p>THat in regard Mr. <hi>John Albot</hi> Regiſter of the Prerogative Office had deſerted his truſt, and left <hi>London,</hi> obſcuring himſelf whileſt his Clarks officiated for him, and in his name at <hi>Oxford;</hi> and that
+endeavours were twice uſed to conveigh the Books and other Writings of the proceedings in this Office to <hi>Oxford,</hi> (were prevented by the Parliaments care) Mr. <hi>Abbot</hi> ſequeſtred for abſenting
+himſelf from taxes, &amp;c. In which time great miſchiefs did ariſe to the Publick, by recourſe daily to Oxford, thereupon; which I perceiving, did obtain this Letter from his Excellencie to Mr. Speaker.</p>
+                  <p>Sir, At the requeſt of this Gentleman Mr. <hi>Henry Parker</hi> (whoſe good and preferment I very much deſire) I commend to you this incloſed Petition, that it may be preſented to the Houſe by your
+hand: I can afford him a good teſtimony of his faithfull and acceptable ſervice to the State, and to my ſelf, ever ſince the firſt forming of the Army: and his parts and abilities, I preſume, are not
+unknown to the Houſe. It is now therefore my requeſt to you, that you will communicate my mediation on his behalf, and uſe your power, and my Name that he may obtain this Suit, or ſome
+other of the like nature, if this fail. And this is my requeſt to the Houſe the rather, for that (as I am truly informed) he hath not received, nor ever yet moved for any pay, or recompence from the
+State ſince his firſt attendance; notwithſtanding his loſſes in Oxfordſhire by the Kings Army. I am informed alſo, that his imployment for ſome moneths paſt hath been of little or no benefit to him,
+and yet he is unwilling to draw any thing from the publick ſtock, in theſe diſtreſſed times. But for further ſatisfaction in theſe or other particulars, I refer you to his own Account, and not doubting
+but that he will be very ſtudious to merit ſuch a publick acknowledgement, and incouragement, as this, if he may obtain it. I again recommend both him, and his Requeſt to your favour, and reſt,</p>
+                  <closer>
+                     <dateline>St. Albons, <date>Nov. 16. 1643.</date>
+                     </dateline>
+                     <signed>Your affectionate Friend,
+<hi>ESSEX.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>The Petition incloſed, and preſented, was this.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <p>That the now Judge and Regiſter of the Prerogative Court of Cant: (being Officers of great truſt and conſequence, who ought to attend and execute the duty of their places accordingly) have
+long neglected and abuſed the ſaid Truſt by deſerting their Charge here, whereby the courſe of Juſtice is obſtructed, the Rolls and Records of that Court much indangered, much recourſe daily un<g ref="char:EOLhyphen"/>to
+Oxford; beſides many other inconveniences of great importance to the Parliament and State.</p>
+                        <p>Your Petitioner, as well out of his humble deſire to do faithfull ſervice to the Common-wealth, as in hope of ſome incouragement and recompence of his former endeavours and ſervice to this
+High Court; and the rather being now ſtript and plundred of his whole eſtate in Oxfordſhire by the Army there.</p>
+                        <p>Humbly deſires that he may be inveſted in ſome imployment in one or both of the ſaid Places, as this Honorable Houſe ſhall think fit, whereby he may have ſome convenient ſupport for himſelf
+and his Family, &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>Order.</head>
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbati. 18. Nov. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>The humble Petition of <hi>Henry Parker</hi> Gent: (eſpecially recommended by my Lord Generall) was read, and Ordered to be referred to Mr. <hi>White,</hi> Mr. <hi>Selden,</hi> Mr. <hi>Solicitor,</hi> Mr. <hi>Prideaux,</hi> and Mr.
+<hi>Browne,</hi> to conſider what is fit for this Houſe to do further upon it, and to report their Opinions.</p>
+                        <p>Ordered, That this Houſe do Declare, that They are ſenſible of the good ſervice Mr. <hi>Parker</hi> hath done to the Common-wealth, and they will in this particular mentioned in his Petition, or in ſome
+other thing as advantagious, conſider him for his good ſervices.</p>
+                        <closer>
+                           <signed>H. Elſyng.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By this I was incouraged to ſolicite the eſtabliſhment of the Prerogative Court; and to that purpoſe I did attend the Referres, preſenting ſome Papers to them, as motives why the buſineſſe ought
+to be haſtned, and a form how by Ordinance it might be paſſed.</p>
+            <p>About Midſummer 1644. I underſtood Mr. <hi>Oldſworth</hi> would appear my Competitor, and that he had prepared an Ordinance for the placing himſelf in Mr. <hi>Abbots</hi> roome: but the Ordinance being
+read, the Houſe refuſed to inſert his name therein, by reaſon that Sir <hi>Henry Vane</hi> ſen. acquainted them of a former Order made in my behalf, and ſo onely a Memorandum was entred, that Maſter
+<hi>Oldſworth</hi> had been mentioned, as aforeſaid.</p>
+            <p>Nevertheleſſe, this competition made me ſo ſolicitous, as to procure another recommendation to Mr. Speaker.</p>
+            <p>
+               <hi>The ſubſtance of the Petition was for an accompliſhment of the Order of</hi> Novemb: 18. 1643.</p>
+            <p>Immediately after the Houſe committed the manner of ſettling the Prerogative Court to Doctor <hi>Eden</hi> and Mr. <hi>Maynard,</hi> to both whom I preſented a form of my draught; but the buſineſſe long
+hung in their hands, and now that Ordinance is paſt, and Sir <hi>Nat. Brent</hi> is ſetled Judge, and now I again renew my old ſuit, and procured from his Excellency a new revivall of his former recom<g ref="char:EOLhyphen"/>mendation
+in this manner.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>SIR, About a yeer ſince by my Letter to you directed, I did recommend Mr. <hi>Parkers</hi> Petition to the Houſe of Commons, and uſe my mediation in his behalf, That acceptance which he then found
+for my ſake I do now with thankfulneſſe acknowledge: but becauſe his expectation remains ſtill ingaged in the ſame buſineſſe, I make it my ſuit with earneſſe once more, That they would continue
+their good intentions towards him, and accompliſh now that which in expreſſions of ſo much grace was formerly condiſcended to. The Gentleman has been active and paſſive in this Cauſe, and
+though he be made obnoxious to the other ſide by his ſervice to the Committee of Safety and my ſelf, and by his ingenious endeavours otherwiſe, yet he hath hitherto received no ſatisfaction at all
+either as gratuitous, or as due. This makes him the more hopefull of incouragement in this particular, and this makes me the more earneſt interceſſour for him: and this I pray repreſent to the
+Houſe from him who is</p>
+                  <closer>
+                     <dateline>Eſſex houſe, <date>Nov. 4. 1644.</date>
+                     </dateline>
+                     <signed>Your very affectionate friend,
+<hi>ESSEX.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Letter has not been read in the Houſe, becauſe Mr. <hi>Oldſworth</hi> moved in the morning before it came to the Houſe, and the Petition accompanying it was thus:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <p>That your Petitioner in <hi>Novemb.</hi> 1643. did exhibite a Petition to this honourable Houſe for the Regiſters place in the Prerogative Court (at that time ſequeſtred) and did obtain a very gracious
+Anſwer therein.</p>
+                        <p>That the onely cauſe of delay then was the new ſetling and altring of that Court, becauſe it was to be diſ-annexed from Eccleſiaſticall juriſdiction, and that would require ſome time, and de<g ref="char:EOLhyphen"/>bate;
+eſpecially as the troubles and diverſions, and throngs of other important buſineſſe did then intervene.</p>
+                        <p>That your Petitioner did take pains to ſolicite and facilitate that alteration, and for divers moneths together met with no competition, or oppoſition.</p>
+                        <p>That when the buſineſſe was grown neer to perfection, and the Houſe began to haſten the ſpeeding thereof, Mr. <hi>Abbot</hi> appeared out of his retirement, and Mr. <hi>Oldſworth</hi> by his power interpoſed.</p>
+                        <p>His moſt humble prayer therefore is, that foraſmuch as Mr. <hi>Abbot</hi> hath neglected his charge, to the damage of the State, and hath lien under ſequeſtration, and onely caſt in his private caſe
+amongſt the various, high, important affairs of this Honourable Houſe to avoid expedition, as may be conceived: and foraſmuch as Mr. <hi>Oldſworth</hi> ſuit was ſubſequent in time to the Petitioners, and
+was not commenced till the favourable Order of the Houſe had fixed the hopes of the Petitioner upon this ſolicitation, and diſ-ingaged him from other applications: His moſt humble prayer is
+that he may be admitted into the execution and poſſeſſion of the ſaid Regiſters place.</p>
+                        <closer>
+                           <signed>And your Petitioner ſhall ever, &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>This Petition for the cauſe aforeſaid was not preſented.</hi>
+            </p>
+            <p>If it be objected, that the Petitioner did not make ſuit for the Regiſters place in Terminis. <hi>I anſwer.</hi> It had been preſumption to limit the Houſe, or to particularize too far, but in the opening of
+the Petition it was ſo repreſented to the Houſe, and the Houſe ſo underſtood it; and the Judges place being granted away ſince, the Order can now take place no otherwiſe; unleſſe it be ſuppoſed,
+that I uſed his Excellencies recommendation; and made all this ſuit for ſome inferiour ſervice under the Regiſter.</p>
+            <p>If it be objected, that the Order refers to ſomething elſe <hi>as advantagious. I anſwer.</hi> That was added in favour of me, in caſe this might fail by Mr. <hi>Abbots</hi> juſtification or otherwiſe; and ſo the words
+are in his Excellencies Letter. That addition was not intended to fruſtrate my ſuit, or to prolong my attendance, or to put me upon endleſſe enquiries: Any thing elſe for the preſent, though leſſe
+<hi>advantagious</hi> ſhall ſatisfie me; but there is no certainty how the Order of the Houſe can be ever ſatisfied, if I am left to another diſcovery; for either I may not live, or not diſcover; or elſe I am ſtill in
+the ſame predicament, and onely capable of the ſame anſwer, in infinitum.</p>
+            <p>If it be objected that Mr. <hi>Oldſworths</hi> merit is greater then mine. <hi>I anſwer.</hi> In ſuits meerly honorary, I will be no competitor with Mr. <hi>Oldſworth;</hi> but in ſuits of a pecuniary nature, I conceive I have
+this advantage: whereas he ſerves immediately for ſuch a Burrough, and the old uſe and Law was, that Shires, Burroughs, or Cities, ſhould maintain their own Repreſentants; I have ſerved the
+Lords and Commons immediately in a place of Eminence, and ſo for my ordinary attendance and Travail may pretend to a due entertainment or pay. And yet more then this, I have done extra<g ref="char:EOLhyphen"/>ordinary
+Offices alſo to the whole State, which have not been altogether unacceptable; and which I hope, were in part pointed in the Houſes Order; I ſhall without immodeſty ſay this, if Mr. <hi>Oldſ<g ref="char:EOLhyphen"/>worth</hi>
+have made himſelf more odious to the other ſide then I have done. I deſire he may be more gracious to this.</p>
+            <p>If it be objected, that I have already enjoyed a place of great profit. <hi>I anſwer.</hi> Tis known to all that ever had buſineſſe with me, that I never demanded (nor ſuffered to be by my Servants) any thing
+of any as a due, or as a gratuity; and 'tis known to my ſelf what I have given away, and what I have lent, and what I have loſt by Plunder and otherwiſe; and I wiſh I may fail in this ſuit, if I am
+not ſolicitous in it that I may be inabled thereby for that publick ſervice, which hitherto meer indigence has hindred me from: If the gaining of a new Office could as much conduce to Mr. <hi>Oldſworths</hi>
+attendance in Parliament, as it may to my other ſtudies and endeavours I would not be his concurrent.</p>
+            <p>If it be objected, that the Place is of vaſt advantage. I anſwer. For that I ſhall not inſiſt upon, thoſe words in the Order: I leave that to the Houſes own interpretation, and to conſider as well
+what is fit for them to give, as for me to receive; if this alſo may be a preſident for other Officers either to moderate fees, or to aſſiſt the publick by them, I ſhall rejoyce to ſee it: nevertheleſſe Maſter
+<hi>Kilvert</hi> (who is Mr. <hi>Oldſworths</hi> friend, and my enemy) will not cantonize the place (tis his own words) if Maſter <hi>Oldſworth</hi> may injoy it, but rather then I ſhall injoy it, he will be ſo good a Patriot,
+as to cut it into parts.</p>
+            <p>My ſuit therefore now is, that ſince the Houſe did firſt intend me this place, or ſomething elſe as advantagious, in caſe this proved not feaſible, and did adde a clauſe for my benefit in their Or<g ref="char:EOLhyphen"/>der,
+not becauſe I ſhould be put off upon further attendance or expectation. And foraſmuch as Mr. <hi>Oldſworth</hi> is not onely barred by the ſelf denying Ordinance, of the third of <hi>April,</hi> 1645. and
+reſolutions of the Houſe the tenth of <hi>June,</hi> 1647. but was alſo a Competitor ſubſequent in time as is before expreſſed, that he made no requeſt to the Houſe for this place (nor acquainted them with<g ref="char:EOLhyphen"/>all
+how far the Houſe had condeſcended before, about the ſame in giving it to me) but proceeded directly by way of Ordinance, for poſſeſſing himſelf of that place: All the premiſes conſidered; That
+I may be made capable of that favour which the Honourable Houſes Order firſt intended me.</p>
+            <p>My friends may alſo urge in my behalf:
+<list>
+                  <item>1. That I never ſought for any ſtipend from the State, nor ever received peny under that name; but did disburſe ſome Moneys for the State, upon ſpeciall command and order; all which is not
+yet paid.</item>
+                  <item>2. That though I was once for a ſhort time placed ſo, as that I might have reaped much benefit by it, if I would have exacted upon poore Souldiers; yet I was ſo far from that, that I would never
+ſtrictly demand any thing as due, nor ſuffer my Clerks; but did inſtead of gaining, ſometimes loſe by ſome Officers that were in want.</item>
+                  <item>3. That when I left this Kingdom, and betook my ſelf to ſerve the Merchants at <hi>Hamburgh,</hi> I was driven thereunto by neceſſity; and becauſe I was loft to preſſe upon the State for a ſubſiſtance,
+and not out of any want of zeal: and this I preſented in, in humble Petition at my departure, though I could not procure the ſame to be read.</item>
+                  <item>4. That my attendance upon this buſineſſe of the Regiſters Office ſo many yeers, hath not onely put me to trouble and pains, but after to ſome charge and difficulty; I keeping a man in weekly
+pay in London in my abſence to attend this buſines, who did little by reaſon of the many troubles of this Kingdom. And when he was dead, ſent my own ſervant from <hi>Hamburgh</hi> to attend the ſame.
+I humbly offer theſe things to thoſe who are my Judges, and I hope without reſpect to perſons, or pre-ingagements, will with an equall eye look upon our ſeverall pretences.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>HENRY PARKER.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
